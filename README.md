@@ -1,3 +1,3 @@
 # ArcPY_for_BatchCutting
-<p>利用ArcPY，实现按要素属性表进行批量裁剪。（ Using arcpy to realize batch cutting according to element attribute table）</p>
-<p>注意：需要配合Toolbox中的ArcGIS脚本使用。（Note: it needs to be used with ArcGIS script in toolbox）</p>
+ArcGIS脚本工具(ArcGIS scripting tools):利用ArcPY，实现按要素属性表进行批量裁剪。（ Using arcpy to realize batch cutting according to element attribute table）<br />
+**注意**：该脚本已集成为ArcGIS脚本工具（项目中的Toolbox），需要配合ArcGIS使用。（Note: The script has been integrated into ArcGIS script tool (toolbox in the project) and needs to be used with ArcGIS）</p>
